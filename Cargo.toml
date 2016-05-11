@@ -1,0 +1,6 @@
+[package]
+name = "cc-2016-rust"
+version = "0.1.0"
+authors = ["Teijo Laine"]
+
+[dependencies]
